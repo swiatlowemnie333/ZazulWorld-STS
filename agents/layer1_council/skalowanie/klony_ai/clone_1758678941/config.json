@@ -1,0 +1,13 @@
+{
+    "clone_id": "clone_1758678941",
+    "department": "skalowanie",
+    "created": "2025-09-24T03:55:42+02:00",
+    "status": "active",
+    "performance_threshold": 40,
+    "parent_department": "skalowanie",
+    "capabilities": [
+        "task_processing",
+        "decision_making",
+        "collaboration"
+    ]
+}

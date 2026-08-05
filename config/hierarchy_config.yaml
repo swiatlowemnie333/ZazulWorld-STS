@@ -1,0 +1,52 @@
+ZazulWorld_Federation:
+  version: "1.0"
+  created: "2025-09-15"
+  
+  Rada_Najwyzsza:
+    description: "Najwyższa rada zarządzająca"
+    klony_ai: []
+    uprawnienia: ["wszystkie", "veto", "strategiczne_decyzje"]
+    
+  Rada_Wielu:
+    description: "Rada reprezentująca różne departamenty"
+    klony_ai: []
+    uprawnienia: ["operacyjne", "koordynacja", "recenzje"]
+    
+  Departamenty:
+    przepływ_pracy:
+      description: "Zarządzanie przepływem pracy i procesami"
+      reviewers: []
+      superreviewers: []
+      auto_clone_threshold: 40
+      
+    rozdzielanie_zadań:
+      description: "Inteligentne przydzielanie zadań"
+      reviewers: []
+      superreviewers: []
+      auto_clone_threshold: 40
+      
+    skalowanie:
+      description: "Skalowanie systemów i procesów"
+      reviewers: []
+      superreviewers: []
+      auto_clone_threshold: 40
+      
+    halucynacje:
+      description: "Kontrola i zarządzanie halucynacjami AI"
+      reviewers: []
+      superreviewers: []
+      auto_clone_threshold: 40
+      
+    zarabianie_funduszy:
+      description: "Generowanie przychodów i funduszy"
+      reviewers: []
+      superreviewers: []
+      auto_clone_threshold: 40
+
+  ZazulCoin:
+    exchange_rate: "1 ZazulCoin = 1000 PLN"
+    nobel_tier_requirement: 1000000
+    
+  Google_Drive:
+    capacity: "2TB"
+    sync_enabled: true

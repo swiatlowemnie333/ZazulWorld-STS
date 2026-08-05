@@ -1,0 +1,13 @@
+{
+    "clone_id": "clone_1758694434",
+    "department": "przepływ_pracy",
+    "created": "2025-09-24T08:13:54+02:00",
+    "status": "active",
+    "performance_threshold": 40,
+    "parent_department": "przepływ_pracy",
+    "capabilities": [
+        "task_processing",
+        "decision_making",
+        "collaboration"
+    ]
+}
