@@ -7,7 +7,7 @@
 
 ## What is this?
 
-ZazulWorld STS is an 8-layer fractal consensus system for distributed agent orchestration, running 24/7 on private infrastructure (Contabo VPS vmi2593380). It eliminates LLM hallucinations through adversarial validation, auto-scales with hot cloning, and routes state through an E8 hyperdimensional mirror.
+ZazulWorld STS is an 8-layer fractal consensus system for distributed agent orchestration, running 24/7 on private infrastructure. It eliminates LLM hallucinations through adversarial validation, auto-scales with hot cloning, and routes state through an E8 hyperdimensional mirror.
 
 **Status**: Production system, operational since 2024.
 
@@ -78,7 +78,7 @@ ZazulWorld STS is an 8-layer fractal consensus system for distributed agent orch
 ## Stack
 
 - **Python 3.11+** — agent logic, consensus engine
-- **Linux VPS** — 24/7 production (Contabo vmi2593380)
+- **Linux VPS** — 24/7 production
 - **Docker** — containerized departments
 - **REST APIs** — 10-provider LLM routing
 - **YAML** — hierarchy configuration
@@ -91,7 +91,7 @@ ZazulWorld STS is an 8-layer fractal consensus system for distributed agent orch
 | System | Role | Link |
 |--------|------|------|
 | **Quantum_synapse** | Quantum-classical bridge | github.com/swiatlowemnie333/Quantum_synapse |
-| **JobRadar** | Job-market scanner | Port 8090 on vmi2593380 |
+| **JobRadar** | Job-market scanner | Private |
 | **Gaja Router** | 10-provider LLM API | Integrated in L0-L1 |
 
 ---
@@ -101,7 +101,6 @@ ZazulWorld STS is an 8-layer fractal consensus system for distributed agent orch
 **Michał Zazuniuk** — self-taught quantum & AI engineer  
 14 years industrial automation → 2+ years AI systems
 
-📧 swiatlowemnie333@gmail.com | 📱 +48 579 387 659  
 🐙 github.com/swiatlowemnie333
 
 ---
